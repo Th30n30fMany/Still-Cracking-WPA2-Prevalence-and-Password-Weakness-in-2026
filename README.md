@@ -1,7 +1,6 @@
 # Still-Cracking-WPA2-Prevalence-and-Password-Weakness-in-2026
 Still Cracking: WPA2 Prevalence and Password Weakness in 2026 BSIDES
 
-# Still Cracking: WPA2 Prevalence and Password Weakness in 2026
 
 **BSides Buffalo — June 2026**
 **Presenter:** Dimitri Weaver
